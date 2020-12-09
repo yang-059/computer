@@ -64,12 +64,7 @@ public int getSpeed() {
 
 
 ## 实验结果
-    输出结果：
-    cpu的速度为2200
-    硬盘容量为200
-    该数值1200有误，请检查后重输。
-    cpu的速度为2200
-    硬盘容量为0
+![](https://github.com/yang-059/computer/blob/main/CPU运行结果.PNG)
 
 ## 实验感想
 - 在pc调用方法时，我因未对CPU和HardDisk中的属性做this.关键字定义，导致实参无法被调用;
